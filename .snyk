@@ -276,3 +276,8 @@ patch:
         patched: '2019-09-07T17:53:23.096Z'
     - gatsby-remark-images > gatsby-plugin-sharp > imagemin-pngquant > pngquant-bin > bin-build > download > caw > tunnel-agent:
         patched: '2019-09-07T17:53:23.096Z'
+  SNYK-JS-HTTPSPROXYAGENT-469131:
+    - snyk > proxy-agent > https-proxy-agent:
+        patched: '2019-10-04T04:25:31.731Z'
+    - snyk > proxy-agent > pac-proxy-agent > https-proxy-agent:
+        patched: '2019-10-04T04:25:31.731Z'
