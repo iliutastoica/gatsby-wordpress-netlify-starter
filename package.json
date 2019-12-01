@@ -13,7 +13,7 @@
     "gatsby-plugin-manifest": "^1.0.12",
     "gatsby-plugin-netlify-cms": "^2.0.1",
     "gatsby-plugin-nprogress": "^1.0.9",
-    "gatsby-plugin-offline": "^1.0.12",
+    "gatsby-plugin-offline": "^1.0.18",
     "gatsby-plugin-react-helmet": "^2.0.3",
     "gatsby-plugin-sharp": "^2.0.31",
     "gatsby-plugin-sitemap": "^1.2.9",
